@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+*.sqlite
+proffy-discovery/src/database/fake.data.js
+proffy-discovery/src/database/test.js
