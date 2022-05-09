@@ -3,8 +3,7 @@
 </h1>
 
 <h2 align="center">
-    <img src="
-https://github.com/rocketseat-education/nlw-02-discovery/raw/master/.github/proffy.png" alt="Layout do site com a logo da proffy com uma imagem de pessoas interagindo na direita e com dois botões abaixo da logo, um para estudar e outro para dar aulas">
+    <img src="https://github.com/rocketseat-education/nlw-02-discovery/raw/master/.github/proffy.png" alt="Layout do site com a logo da proffy com uma imagem de pessoas interagindo na direita e com dois botões abaixo da logo, um para estudar e outro para dar aulas">
 </h2>
 
 ## 🧪 Tecnologias
